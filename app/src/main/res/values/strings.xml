@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project Idea Generator</string>
+    <string name="generate_idea">Generate Idea</string>
+</resources>

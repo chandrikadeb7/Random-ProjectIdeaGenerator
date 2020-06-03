@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    tools:context=".Idea" >
+
+    <ImageView
+        android:layout_width="427dp"
+        android:layout_height="292dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/undraw_new_ideas_jdea" />
+
+    <TextView
+        android:id="@+id/result_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Generate Project Ideas"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/idea_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/generate_idea" />
+
+</LinearLayout>
