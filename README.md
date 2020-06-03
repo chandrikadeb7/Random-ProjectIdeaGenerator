@@ -11,7 +11,6 @@
 [![Forks](https://img.shields.io/github/forks/chandrikadeb7/Random-ProjectIdeaGenerator.svg?logo=github)](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator/network/members)
 [![Stargazers](https://img.shields.io/github/stars/chandrikadeb7/Random-ProjectIdeaGenerator.svg?logo=github)](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator/stargazers)
 [![Issues](https://img.shields.io/github/issues/chandrikadeb7/Random-ProjectIdeaGenerator.svg?logo=github)](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator/issues)
-[![MIT License](https://img.shields.io/github/license/chandrikadeb7/Random-ProjectIdeaGenerator.svg?style=flat-square)](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/chandrika-deb/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
